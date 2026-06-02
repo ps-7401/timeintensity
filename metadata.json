@@ -1,0 +1,6 @@
+{
+  "name": "Time-Intensity Curve Tool",
+  "description": "An interactive tool for drawing and exporting Time-Intensity curves with custom sampling rates and touch support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
